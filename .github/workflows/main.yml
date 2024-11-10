@@ -4,7 +4,7 @@ on:
 jobs: 
     build: 
         name: set and run
-        runs-on: ubunt-last
+        runs-on: ubunt-lastest
         steps: 
             - uses: action/checjout@v2
             - name: step1
